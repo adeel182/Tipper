@@ -1,0 +1,29 @@
+with List length of 5 and K of 2
+
+1 > 2 > 3 > 4 > 5
+^ 
+p.n 			p
+
+
+
+
+k = 2
+len = 5
+
+
+
+k% len = 2
+
+k = 2
+
+
+1 > 2 > 3 > 4 > 5
+^ 
+      	p	p.nxt
+			h
+
+
+1 > 2 > 3 > 4 > 5
+^ 
+        p 		
+			h
